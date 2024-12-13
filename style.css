@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #CD5D5D;
+        color: #000;
+    }
+    
+    header {
+        text-align: center;
+        padding: 20px 0;
+    }
+    
+    header h1 {
+        font-size: 36px;
+       color: #fff;
+        margin: 0;
+    }
+    
+    .logo h2 {
+        text-align: left;
+        margin: 20px;
+        font-size: 24px;
+        color: #000;
+    }
+    
+    .g {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin: 20px 0;
+    }
+    
+    .g a {
+        color: blue;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    
+    .gg {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+    
+    .gog {
+        background-color: #000;
+        color: #fff;
+        width: 300px;
+        padding: 20px;
+        text-align: center;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    
+    .gog img {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+    }
+    
+    .gog h3 {
+        margin: 10px 0;
+        font-size: 20px;
+        color: #f8d64b;
+    }
+    
+    .gog p {
+        font-size: 14px;
+    }
+    .ggr {
+        color: #f8d64b;
+    }
+
+
+  
